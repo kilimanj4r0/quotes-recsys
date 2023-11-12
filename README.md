@@ -1,2 +1,3 @@
 # quotes-recsys
-Quotes Content-based Recommender System using Text Data
+
+Quotes Content-Based Recommender System using Text Data
