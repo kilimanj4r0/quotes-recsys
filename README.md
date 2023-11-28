@@ -1,5 +1,12 @@
 # Quotes Content-Based Recommender System using Diary-style Texts
 
+<h3 align="center">
+<a href="https://huggingface.co/spaces/batalovme/quotes-recsys"> 🔥 Streamlit Demo </a>|
+<a href="./reports/Final Technical Report.pdf.pdf"> 📋 Detailed Technical Report </a>
+</h3>
+
+## Team
+
 🧑‍💻 **Vladimir Makharev** 📧 v.makharev@innopolis.university<br>
 🧑‍💻 **Artem Batalov** 📧 a.batalov@innopolis.university<br>
 🧑‍💻 **Georgii Budnik** 📧 g.budnik@innopolis.university
