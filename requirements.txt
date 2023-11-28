@@ -1,0 +1,6 @@
+torch
+transformers
+datasets
+pandas
+rectools[all]
+openai
