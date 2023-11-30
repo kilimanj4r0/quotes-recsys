@@ -1,2 +1,5 @@
 .idea
 *.bin
+models/
+.DS_Store
+hf-space/
