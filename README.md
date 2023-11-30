@@ -2,7 +2,8 @@
 
 <h3 align="center">
 <a href="https://huggingface.co/spaces/batalovme/quotes-recsys"> 🔥 Streamlit Demo </a>|
-<a href="./reports/Final Technical Report.pdf.pdf"> 📋 Detailed Technical Report </a>
+<a href="./reports/Final Technical Report.pdf"> 📋 Detailed Technical Report </a>|
+<a href="./reports/Slides.pdf"> 📊 Slides </a>
 </h3>
 
 ## Team
